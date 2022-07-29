@@ -108,7 +108,7 @@ noUiSlider.create(sliderDownpayment, {
     step: 100000,
     range: {
         min: 0,
-        max: 1000000
+        max: 10000000
     },
 
     format: wNumb ({
